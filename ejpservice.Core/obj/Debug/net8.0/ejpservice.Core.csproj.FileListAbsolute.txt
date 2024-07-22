@@ -1,0 +1,11 @@
+D:\Proyectos\API\RESTFull\ejpservice\ejpservice.Core\bin\Debug\net8.0\ejpservice.Core.deps.json
+D:\Proyectos\API\RESTFull\ejpservice\ejpservice.Core\bin\Debug\net8.0\ejpservice.Core.dll
+D:\Proyectos\API\RESTFull\ejpservice\ejpservice.Core\bin\Debug\net8.0\ejpservice.Core.pdb
+D:\Proyectos\API\RESTFull\ejpservice\ejpservice.Core\obj\Debug\net8.0\ejpservice.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proyectos\API\RESTFull\ejpservice\ejpservice.Core\obj\Debug\net8.0\ejpservice.Core.AssemblyInfoInputs.cache
+D:\Proyectos\API\RESTFull\ejpservice\ejpservice.Core\obj\Debug\net8.0\ejpservice.Core.AssemblyInfo.cs
+D:\Proyectos\API\RESTFull\ejpservice\ejpservice.Core\obj\Debug\net8.0\ejpservice.Core.csproj.CoreCompileInputs.cache
+D:\Proyectos\API\RESTFull\ejpservice\ejpservice.Core\obj\Debug\net8.0\ejpservice.Core.dll
+D:\Proyectos\API\RESTFull\ejpservice\ejpservice.Core\obj\Debug\net8.0\refint\ejpservice.Core.dll
+D:\Proyectos\API\RESTFull\ejpservice\ejpservice.Core\obj\Debug\net8.0\ejpservice.Core.pdb
+D:\Proyectos\API\RESTFull\ejpservice\ejpservice.Core\obj\Debug\net8.0\ref\ejpservice.Core.dll

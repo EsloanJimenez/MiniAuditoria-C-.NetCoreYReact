@@ -1,0 +1,17 @@
+D:\Proyectos\API\RESTFull\ejpservice\ejpservice.IOC\bin\Debug\net8.0\ejpservice.IOC.deps.json
+D:\Proyectos\API\RESTFull\ejpservice\ejpservice.IOC\bin\Debug\net8.0\ejpservice.IOC.dll
+D:\Proyectos\API\RESTFull\ejpservice\ejpservice.IOC\bin\Debug\net8.0\ejpservice.IOC.pdb
+D:\Proyectos\API\RESTFull\ejpservice\ejpservice.IOC\bin\Debug\net8.0\ejpservice.Domain.dll
+D:\Proyectos\API\RESTFull\ejpservice\ejpservice.IOC\bin\Debug\net8.0\ejpservice.Infrastructure.dll
+D:\Proyectos\API\RESTFull\ejpservice\ejpservice.IOC\bin\Debug\net8.0\ejpservice.Domain.pdb
+D:\Proyectos\API\RESTFull\ejpservice\ejpservice.IOC\bin\Debug\net8.0\ejpservice.Infrastructure.pdb
+D:\Proyectos\API\RESTFull\ejpservice\ejpservice.IOC\obj\Debug\net8.0\ejpservice.IOC.csproj.AssemblyReference.cache
+D:\Proyectos\API\RESTFull\ejpservice\ejpservice.IOC\obj\Debug\net8.0\ejpservice.IOC.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proyectos\API\RESTFull\ejpservice\ejpservice.IOC\obj\Debug\net8.0\ejpservice.IOC.AssemblyInfoInputs.cache
+D:\Proyectos\API\RESTFull\ejpservice\ejpservice.IOC\obj\Debug\net8.0\ejpservice.IOC.AssemblyInfo.cs
+D:\Proyectos\API\RESTFull\ejpservice\ejpservice.IOC\obj\Debug\net8.0\ejpservice.IOC.csproj.CoreCompileInputs.cache
+D:\Proyectos\API\RESTFull\ejpservice\ejpservice.IOC\obj\Debug\net8.0\ejpservi.A5C4FD35.Up2Date
+D:\Proyectos\API\RESTFull\ejpservice\ejpservice.IOC\obj\Debug\net8.0\ejpservice.IOC.dll
+D:\Proyectos\API\RESTFull\ejpservice\ejpservice.IOC\obj\Debug\net8.0\refint\ejpservice.IOC.dll
+D:\Proyectos\API\RESTFull\ejpservice\ejpservice.IOC\obj\Debug\net8.0\ejpservice.IOC.pdb
+D:\Proyectos\API\RESTFull\ejpservice\ejpservice.IOC\obj\Debug\net8.0\ref\ejpservice.IOC.dll

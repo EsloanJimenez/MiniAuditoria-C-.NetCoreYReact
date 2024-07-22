@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ejpservice.Domain/1.0.0": {
+        "runtime": {
+          "ejpservice.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ejpservice.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

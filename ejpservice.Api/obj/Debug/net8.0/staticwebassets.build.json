@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "uXXed7QLKFmy8xDHUH77jPDaPlMV2Z+cLzhCbBytRtI=",
+  "Source": "ejpservice.Api",
+  "BasePath": "_content/ejpservice.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

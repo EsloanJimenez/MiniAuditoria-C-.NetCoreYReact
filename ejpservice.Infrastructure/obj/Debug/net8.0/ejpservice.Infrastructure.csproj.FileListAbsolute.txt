@@ -1,0 +1,17 @@
+D:\Proyectos\API\RESTFull\ejpservice\ejpservice.Infrastructure\bin\Debug\net8.0\ejpservice.Infrastructure.deps.json
+D:\Proyectos\API\RESTFull\ejpservice\ejpservice.Infrastructure\bin\Debug\net8.0\ejpservice.Infrastructure.dll
+D:\Proyectos\API\RESTFull\ejpservice\ejpservice.Infrastructure\bin\Debug\net8.0\ejpservice.Infrastructure.pdb
+D:\Proyectos\API\RESTFull\ejpservice\ejpservice.Infrastructure\obj\Debug\net8.0\ejpservice.Infrastructure.csproj.AssemblyReference.cache
+D:\Proyectos\API\RESTFull\ejpservice\ejpservice.Infrastructure\obj\Debug\net8.0\ejpservice.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proyectos\API\RESTFull\ejpservice\ejpservice.Infrastructure\obj\Debug\net8.0\ejpservice.Infrastructure.AssemblyInfoInputs.cache
+D:\Proyectos\API\RESTFull\ejpservice\ejpservice.Infrastructure\obj\Debug\net8.0\ejpservice.Infrastructure.AssemblyInfo.cs
+D:\Proyectos\API\RESTFull\ejpservice\ejpservice.Infrastructure\obj\Debug\net8.0\ejpservice.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Proyectos\API\RESTFull\ejpservice\ejpservice.Infrastructure\obj\Debug\net8.0\ejpservi.A5F80239.Up2Date
+D:\Proyectos\API\RESTFull\ejpservice\ejpservice.Infrastructure\obj\Debug\net8.0\ejpservice.Infrastructure.dll
+D:\Proyectos\API\RESTFull\ejpservice\ejpservice.Infrastructure\obj\Debug\net8.0\refint\ejpservice.Infrastructure.dll
+D:\Proyectos\API\RESTFull\ejpservice\ejpservice.Infrastructure\obj\Debug\net8.0\ejpservice.Infrastructure.pdb
+D:\Proyectos\API\RESTFull\ejpservice\ejpservice.Infrastructure\obj\Debug\net8.0\ref\ejpservice.Infrastructure.dll
+D:\Proyectos\API\RESTFull\ejpservice\ejpservice.Infrastructure\bin\Debug\net8.0\ejpservice.Infrastructure.runtimeconfig.json
+D:\Proyectos\API\RESTFull\ejpservice\ejpservice.Infrastructure\bin\Debug\net8.0\ejpservice.Domain.dll
+D:\Proyectos\API\RESTFull\ejpservice\ejpservice.Infrastructure\bin\Debug\net8.0\ejpservice.Domain.pdb
+D:\Proyectos\API\RESTFull\ejpservice\ejpservice.Infrastructure\obj\Debug\net8.0\ejpservice.Infrastructure.genruntimeconfig.cache
