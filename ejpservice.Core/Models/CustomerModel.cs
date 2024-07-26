@@ -1,4 +1,4 @@
-﻿using ejpservice.Domain.Core;
+﻿using ejpservice.Domain.Core.Models;
 
 namespace ejpservice.Domain.Models
 {

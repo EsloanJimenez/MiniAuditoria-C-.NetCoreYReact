@@ -1,4 +1,4 @@
-﻿using ejpservice.Domain.Core;
+﻿using ejpservice.Domain.Core.Models;
 using ejpservice.Domain.Enum;
 
 namespace ejpservice.Domain.Models

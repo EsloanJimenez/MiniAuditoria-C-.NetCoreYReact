@@ -128,3 +128,4 @@ D:\Proyectos\API\RESTFull\ejpservice\ejpservice.Api\bin\Debug\net8.0\ejpservice.
 D:\Proyectos\API\RESTFull\ejpservice\ejpservice.Api\bin\Debug\net8.0\ejpservice.Domain.pdb
 D:\Proyectos\API\RESTFull\ejpservice\ejpservice.Api\bin\Debug\net8.0\ejpservice.IOC.dll
 D:\Proyectos\API\RESTFull\ejpservice\ejpservice.Api\bin\Debug\net8.0\ejpservice.IOC.pdb
+D:\Proyectos\API\RESTFull\ejpservice\ejpservice.Api\obj\Debug\net8.0\ejpservice.Api.sourcelink.json

@@ -9,3 +9,4 @@ D:\Proyectos\API\RESTFull\ejpservice\ejpservice.Core\obj\Debug\net8.0\ejpservice
 D:\Proyectos\API\RESTFull\ejpservice\ejpservice.Core\obj\Debug\net8.0\refint\ejpservice.Domain.dll
 D:\Proyectos\API\RESTFull\ejpservice\ejpservice.Core\obj\Debug\net8.0\ejpservice.Domain.pdb
 D:\Proyectos\API\RESTFull\ejpservice\ejpservice.Core\obj\Debug\net8.0\ref\ejpservice.Domain.dll
+D:\Proyectos\API\RESTFull\ejpservice\ejpservice.Core\obj\Debug\net8.0\ejpservice.Domain.sourcelink.json

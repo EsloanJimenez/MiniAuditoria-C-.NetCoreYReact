@@ -3,7 +3,6 @@ using ejpservice.Domain.Interface;
 using ejpservice.Domain.Models;
 using ejpservice.Infrastructure.Context;
 using ejpservice.Infrastructure.Core;
-using Microsoft.EntityFrameworkCore;
 using System.Linq.Expressions;
 
 namespace ejpservice.Infrastructure.Repositories

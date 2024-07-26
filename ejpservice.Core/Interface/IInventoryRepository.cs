@@ -6,5 +6,6 @@ namespace ejpservice.Domain.Interface
     public interface IInventoryRepository : IBaseRepository<Inventory>
     {
         List<InventoryModel> GetInventory();
+        SalesTotalModel GetSalesTotal();
     }
 }

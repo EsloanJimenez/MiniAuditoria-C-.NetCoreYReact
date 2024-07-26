@@ -147,3 +147,4 @@ D:\Proyectos\API\RESTFull\ejpservice\ejpservice.UnitTests\obj\Debug\net8.0\refin
 D:\Proyectos\API\RESTFull\ejpservice\ejpservice.UnitTests\obj\Debug\net8.0\ejpservice.UnitTests.pdb
 D:\Proyectos\API\RESTFull\ejpservice\ejpservice.UnitTests\obj\Debug\net8.0\ejpservice.UnitTests.genruntimeconfig.cache
 D:\Proyectos\API\RESTFull\ejpservice\ejpservice.UnitTests\obj\Debug\net8.0\ref\ejpservice.UnitTests.dll
+D:\Proyectos\API\RESTFull\ejpservice\ejpservice.UnitTests\obj\Debug\net8.0\ejpservice.UnitTests.sourcelink.json

@@ -1,12 +1,7 @@
-﻿using ejpservice.Api.Models.Create;
-using ejpservice.Domain.Entities;
+﻿using ejpservice.Domain.Entities;
 using ejpservice.Domain.Interface;
-using ejpservice.Domain.Models;
-using ejpservice.Infrastructure.Context;
-using ejpservice.Infrastructure.Core;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
-using Microsoft.EntityFrameworkCore.Metadata.Internal;
 
 // For more information on enabling Web API for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
 
@@ -17,7 +12,6 @@ namespace ejpservice.Api.Controllers
     public class CustomerController : ControllerBase
     {
         private readonly ICustomersRepository _customersRepository;
-        //private readonly EJPServiceContext _context;
         public CustomerController(ICustomersRepository customersRepository)
         {
             _customersRepository = customersRepository;
@@ -74,7 +68,8 @@ namespace ejpservice.Api.Controllers
                 await  _customersRepository.Update(customers);
             } catch (DbUpdateConcurrencyException)
             {
-                if (!await _customersRepository.Exists(cd => cd.CustomerId == id)) return NotFound();
+                if (!await _customersRepository.Exists(cd => cd.CustomerId == id)) 
+                    return NotFound();
                 else throw ;
             }
 

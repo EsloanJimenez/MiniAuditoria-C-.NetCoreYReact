@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ejpservice.IOC")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9cd2dcf6d20e2fc61e20916096365aa030dbdb43")]
 [assembly: System.Reflection.AssemblyProductAttribute("ejpservice.IOC")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ejpservice.IOC")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

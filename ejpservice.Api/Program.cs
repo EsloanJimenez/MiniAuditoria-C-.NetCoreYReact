@@ -23,11 +23,13 @@ builder.Services.AddDbContext<EJPServiceContext>(op => op.UseMySQL(pr));
 
 #endregion
 
-#region "Registro de componentes"
-
+#region "Registro de dependencias"
+builder.Services.AddCustomerDependency();
+builder.Services.AddInventoryDependency();
+builder.Services.AddSalesDependency();
 #endregion
 
-builder.Services.AddCustomerDependency();
+
 
 builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle

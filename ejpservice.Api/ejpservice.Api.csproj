@@ -30,8 +30,6 @@
   <ItemGroup>
     <Folder Include="Images\Admin\" />
     <Folder Include="Images\TeamMember\" />
-    <Folder Include="Models\Remove\" />
-    <Folder Include="Models\Update\" />
   </ItemGroup>
 
 </Project>

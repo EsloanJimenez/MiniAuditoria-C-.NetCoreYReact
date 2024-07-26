@@ -5,7 +5,7 @@ namespace ejpservice.Domain.Entities
 {
     public class Customers : BasePerson
     {
-        [Key]
+        [Key] 
         public int CustomerId { get; set; }
         public string? CompanyName { get; set; }
         public string? TradeName { get; set; }

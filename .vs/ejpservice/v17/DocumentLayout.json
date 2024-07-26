@@ -3,32 +3,56 @@
   "WorkspaceRootPath": "D:\\Proyectos\\API\\RESTFull\\ejpservice\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F683FD65-6129-4A78-BD5F-277D3F5E843C}|ejpservice.Api\\ejpservice.Api.csproj|d:\\proyectos\\api\\restfull\\ejpservice\\ejpservice.api\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F683FD65-6129-4A78-BD5F-277D3F5E843C}|ejpservice.Api\\ejpservice.Api.csproj|solutionrelative:ejpservice.api\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{54217EED-91FF-44BB-AA39-49340F9E40E5}|ejpservice.Infrastructure\\ejpservice.Infrastructure.csproj|d:\\proyectos\\api\\restfull\\ejpservice\\ejpservice.infrastructure\\core\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{54217EED-91FF-44BB-AA39-49340F9E40E5}|ejpservice.Infrastructure\\ejpservice.Infrastructure.csproj|solutionrelative:ejpservice.infrastructure\\core\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{54217EED-91FF-44BB-AA39-49340F9E40E5}|ejpservice.Infrastructure\\ejpservice.Infrastructure.csproj|d:\\proyectos\\api\\restfull\\ejpservice\\ejpservice.infrastructure\\repositories\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{54217EED-91FF-44BB-AA39-49340F9E40E5}|ejpservice.Infrastructure\\ejpservice.Infrastructure.csproj|solutionrelative:ejpservice.infrastructure\\repositories\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{54217EED-91FF-44BB-AA39-49340F9E40E5}|ejpservice.Infrastructure\\ejpservice.Infrastructure.csproj|d:\\proyectos\\api\\restfull\\ejpservice\\ejpservice.infrastructure\\context\\ejpservicecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{54217EED-91FF-44BB-AA39-49340F9E40E5}|ejpservice.Infrastructure\\ejpservice.Infrastructure.csproj|solutionrelative:ejpservice.infrastructure\\context\\ejpservicecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{54217EED-91FF-44BB-AA39-49340F9E40E5}|ejpservice.Infrastructure\\ejpservice.Infrastructure.csproj|d:\\proyectos\\api\\restfull\\ejpservice\\ejpservice.infrastructure\\repositories\\salesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54217EED-91FF-44BB-AA39-49340F9E40E5}|ejpservice.Infrastructure\\ejpservice.Infrastructure.csproj|solutionrelative:ejpservice.infrastructure\\repositories\\salesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C53F785E-63D8-4B4A-82FF-1EA1E70D5B5B}|ejpservice.Core\\ejpservice.Domain.csproj|d:\\proyectos\\api\\restfull\\ejpservice\\ejpservice.core\\core\\basefollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C53F785E-63D8-4B4A-82FF-1EA1E70D5B5B}|ejpservice.Core\\ejpservice.Domain.csproj|solutionrelative:ejpservice.core\\core\\basefollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F683FD65-6129-4A78-BD5F-277D3F5E843C}|ejpservice.Api\\ejpservice.Api.csproj|d:\\proyectos\\api\\restfull\\ejpservice\\ejpservice.api\\controllers\\salescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F683FD65-6129-4A78-BD5F-277D3F5E843C}|ejpservice.Api\\ejpservice.Api.csproj|solutionrelative:ejpservice.api\\controllers\\salescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C53F785E-63D8-4B4A-82FF-1EA1E70D5B5B}|ejpservice.Core\\ejpservice.Domain.csproj|d:\\proyectos\\api\\restfull\\ejpservice\\ejpservice.core\\interface\\ibaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C53F785E-63D8-4B4A-82FF-1EA1E70D5B5B}|ejpservice.Core\\ejpservice.Domain.csproj|solutionrelative:ejpservice.core\\interface\\ibaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F683FD65-6129-4A78-BD5F-277D3F5E843C}|ejpservice.Api\\ejpservice.Api.csproj|d:\\proyectos\\api\\restfull\\ejpservice\\ejpservice.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F683FD65-6129-4A78-BD5F-277D3F5E843C}|ejpservice.Api\\ejpservice.Api.csproj|solutionrelative:ejpservice.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C53F785E-63D8-4B4A-82FF-1EA1E70D5B5B}|ejpservice.Core\\ejpservice.Domain.csproj|d:\\proyectos\\api\\restfull\\ejpservice\\ejpservice.core\\interface\\icustomersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C53F785E-63D8-4B4A-82FF-1EA1E70D5B5B}|ejpservice.Core\\ejpservice.Domain.csproj|solutionrelative:ejpservice.core\\interface\\icustomersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{54217EED-91FF-44BB-AA39-49340F9E40E5}|ejpservice.Infrastructure\\ejpservice.Infrastructure.csproj|d:\\proyectos\\api\\restfull\\ejpservice\\ejpservice.infrastructure\\repositories\\inventoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54217EED-91FF-44BB-AA39-49340F9E40E5}|ejpservice.Infrastructure\\ejpservice.Infrastructure.csproj|solutionrelative:ejpservice.infrastructure\\repositories\\inventoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F683FD65-6129-4A78-BD5F-277D3F5E843C}|ejpservice.Api\\ejpservice.Api.csproj|d:\\proyectos\\api\\restfull\\ejpservice\\ejpservice.api\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F683FD65-6129-4A78-BD5F-277D3F5E843C}|ejpservice.Api\\ejpservice.Api.csproj|solutionrelative:ejpservice.api\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C53F785E-63D8-4B4A-82FF-1EA1E70D5B5B}|ejpservice.Core\\ejpservice.Domain.csproj|d:\\proyectos\\api\\restfull\\ejpservice\\ejpservice.core\\core\\models\\baseamountmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C53F785E-63D8-4B4A-82FF-1EA1E70D5B5B}|ejpservice.Core\\ejpservice.Domain.csproj|solutionrelative:ejpservice.core\\core\\models\\baseamountmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C53F785E-63D8-4B4A-82FF-1EA1E70D5B5B}|ejpservice.Core\\ejpservice.Domain.csproj|d:\\proyectos\\api\\restfull\\ejpservice\\ejpservice.core\\models\\salesmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C53F785E-63D8-4B4A-82FF-1EA1E70D5B5B}|ejpservice.Core\\ejpservice.Domain.csproj|solutionrelative:ejpservice.core\\models\\salesmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C53F785E-63D8-4B4A-82FF-1EA1E70D5B5B}|ejpservice.Core\\ejpservice.Domain.csproj|d:\\proyectos\\api\\restfull\\ejpservice\\ejpservice.core\\entities\\sales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C53F785E-63D8-4B4A-82FF-1EA1E70D5B5B}|ejpservice.Core\\ejpservice.Domain.csproj|solutionrelative:ejpservice.core\\entities\\sales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B05D14F-99CD-44B7-B4FE-8D001E1F7B62}|ejpservice.IOC\\ejpservice.IOC.csproj|d:\\proyectos\\api\\restfull\\ejpservice\\ejpservice.ioc\\dependencies\\salesdependency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B05D14F-99CD-44B7-B4FE-8D001E1F7B62}|ejpservice.IOC\\ejpservice.IOC.csproj|solutionrelative:ejpservice.ioc\\dependencies\\salesdependency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C53F785E-63D8-4B4A-82FF-1EA1E70D5B5B}|ejpservice.Core\\ejpservice.Domain.csproj|d:\\proyectos\\api\\restfull\\ejpservice\\ejpservice.core\\models\\inventorymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C53F785E-63D8-4B4A-82FF-1EA1E70D5B5B}|ejpservice.Core\\ejpservice.Domain.csproj|solutionrelative:ejpservice.core\\models\\inventorymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C53F785E-63D8-4B4A-82FF-1EA1E70D5B5B}|ejpservice.Core\\ejpservice.Domain.csproj|d:\\proyectos\\api\\restfull\\ejpservice\\ejpservice.core\\core\\models\\basedtmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C53F785E-63D8-4B4A-82FF-1EA1E70D5B5B}|ejpservice.Core\\ejpservice.Domain.csproj|solutionrelative:ejpservice.core\\core\\models\\basedtmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54217EED-91FF-44BB-AA39-49340F9E40E5}|ejpservice.Infrastructure\\ejpservice.Infrastructure.csproj|d:\\proyectos\\api\\restfull\\ejpservice\\ejpservice.infrastructure\\repositories\\moq\\customermoqrep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54217EED-91FF-44BB-AA39-49340F9E40E5}|ejpservice.Infrastructure\\ejpservice.Infrastructure.csproj|solutionrelative:ejpservice.infrastructure\\repositories\\moq\\customermoqrep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,109 +62,176 @@
       "DocumentGroups": [
         {
           "DockedWidth": 379,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "CustomerController.cs",
-              "DocumentMoniker": "D:\\Proyectos\\API\\RESTFull\\ejpservice\\ejpservice.Api\\Controllers\\CustomerController.cs",
-              "RelativeDocumentMoniker": "ejpservice.Api\\Controllers\\CustomerController.cs",
-              "ToolTip": "D:\\Proyectos\\API\\RESTFull\\ejpservice\\ejpservice.Api\\Controllers\\CustomerController.cs",
-              "RelativeToolTip": "ejpservice.Api\\Controllers\\CustomerController.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAArwCwAAAAZAAAA",
+              "DocumentIndex": 4,
+              "Title": "InventoryRepository.cs",
+              "DocumentMoniker": "D:\\Proyectos\\API\\RESTFull\\ejpservice\\ejpservice.Infrastructure\\Repositories\\InventoryRepository.cs",
+              "RelativeDocumentMoniker": "ejpservice.Infrastructure\\Repositories\\InventoryRepository.cs",
+              "ToolTip": "D:\\Proyectos\\API\\RESTFull\\ejpservice\\ejpservice.Infrastructure\\Repositories\\InventoryRepository.cs",
+              "RelativeToolTip": "ejpservice.Infrastructure\\Repositories\\InventoryRepository.cs",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAcwHgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-21T23:14:58.882Z",
+              "WhenOpened": "2024-07-26T12:00:32.624Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "IBaseRepository.cs",
-              "DocumentMoniker": "D:\\Proyectos\\API\\RESTFull\\ejpservice\\ejpservice.Core\\Interface\\IBaseRepository.cs",
-              "RelativeDocumentMoniker": "ejpservice.Core\\Interface\\IBaseRepository.cs",
-              "ToolTip": "D:\\Proyectos\\API\\RESTFull\\ejpservice\\ejpservice.Core\\Interface\\IBaseRepository.cs",
-              "RelativeToolTip": "ejpservice.Core\\Interface\\IBaseRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAATAAAA",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Proyectos\\API\\RESTFull\\ejpservice\\ejpservice.Api\\Program.cs",
+              "RelativeDocumentMoniker": "ejpservice.Api\\Program.cs",
+              "ToolTip": "D:\\Proyectos\\API\\RESTFull\\ejpservice\\ejpservice.Api\\Program.cs",
+              "RelativeToolTip": "ejpservice.Api\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAA3AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-22T00:25:17.214Z",
+              "WhenOpened": "2024-07-26T11:33:41.16Z",
               "EditorCaption": ""
-            }
-          ]
-        },
-        {
-          "DockedWidth": 352,
-          "SelectedChildIndex": 0,
-          "Children": [
+            },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 10,
+              "Title": "InventoryModel.cs",
+              "DocumentMoniker": "D:\\Proyectos\\API\\RESTFull\\ejpservice\\ejpservice.Core\\Models\\InventoryModel.cs",
+              "RelativeDocumentMoniker": "ejpservice.Core\\Models\\InventoryModel.cs",
+              "ToolTip": "D:\\Proyectos\\API\\RESTFull\\ejpservice\\ejpservice.Core\\Models\\InventoryModel.cs",
+              "RelativeToolTip": "ejpservice.Core\\Models\\InventoryModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T11:27:48.015Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "CustomerRepository.cs",
               "DocumentMoniker": "D:\\Proyectos\\API\\RESTFull\\ejpservice\\ejpservice.Infrastructure\\Repositories\\CustomerRepository.cs",
               "RelativeDocumentMoniker": "ejpservice.Infrastructure\\Repositories\\CustomerRepository.cs",
               "ToolTip": "D:\\Proyectos\\API\\RESTFull\\ejpservice\\ejpservice.Infrastructure\\Repositories\\CustomerRepository.cs",
               "RelativeToolTip": "ejpservice.Infrastructure\\Repositories\\CustomerRepository.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAWwFUAAAAMAAAA",
+              "ViewState": "AQIAADYAAAAAAAAAAAAUwEIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-20T10:04:36.6Z",
+              "WhenOpened": "2024-07-26T09:29:20.427Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "D:\\Proyectos\\API\\RESTFull\\ejpservice\\ejpservice.Api\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "ejpservice.Api\\Controllers\\CustomerController.cs",
+              "ToolTip": "D:\\Proyectos\\API\\RESTFull\\ejpservice\\ejpservice.Api\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "ejpservice.Api\\Controllers\\CustomerController.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAmwCgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T18:29:36.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CustomerMoqRep.cs",
+              "DocumentMoniker": "D:\\Proyectos\\API\\RESTFull\\ejpservice\\ejpservice.Infrastructure\\Repositories\\Moq\\CustomerMoqRep.cs",
+              "RelativeDocumentMoniker": "ejpservice.Infrastructure\\Repositories\\Moq\\CustomerMoqRep.cs",
+              "ToolTip": "D:\\Proyectos\\API\\RESTFull\\ejpservice\\ejpservice.Infrastructure\\Repositories\\Moq\\CustomerMoqRep.cs",
+              "RelativeToolTip": "ejpservice.Infrastructure\\Repositories\\Moq\\CustomerMoqRep.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T10:00:19.328Z"
             }
           ]
         },
         {
-          "DockedWidth": 375,
-          "SelectedChildIndex": 0,
+          "DockedWidth": 379,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "BaseRepository.cs",
-              "DocumentMoniker": "D:\\Proyectos\\API\\RESTFull\\ejpservice\\ejpservice.Infrastructure\\Core\\BaseRepository.cs",
-              "RelativeDocumentMoniker": "ejpservice.Infrastructure\\Core\\BaseRepository.cs",
-              "ToolTip": "D:\\Proyectos\\API\\RESTFull\\ejpservice\\ejpservice.Infrastructure\\Core\\BaseRepository.cs",
-              "RelativeToolTip": "ejpservice.Infrastructure\\Core\\BaseRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAMAAAA",
+              "DocumentIndex": 2,
+              "Title": "SalesController.cs",
+              "DocumentMoniker": "D:\\Proyectos\\API\\RESTFull\\ejpservice\\ejpservice.Api\\Controllers\\SalesController.cs",
+              "RelativeDocumentMoniker": "ejpservice.Api\\Controllers\\SalesController.cs",
+              "ToolTip": "D:\\Proyectos\\API\\RESTFull\\ejpservice\\ejpservice.Api\\Controllers\\SalesController.cs",
+              "RelativeToolTip": "ejpservice.Api\\Controllers\\SalesController.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAgwFcAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-22T13:18:31.715Z",
+              "WhenOpened": "2024-07-26T11:30:01.148Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "ICustomersRepository.cs",
-              "DocumentMoniker": "D:\\Proyectos\\API\\RESTFull\\ejpservice\\ejpservice.Core\\Interface\\ICustomersRepository.cs",
-              "RelativeDocumentMoniker": "ejpservice.Core\\Interface\\ICustomersRepository.cs",
-              "ToolTip": "D:\\Proyectos\\API\\RESTFull\\ejpservice\\ejpservice.Core\\Interface\\ICustomersRepository.cs",
-              "RelativeToolTip": "ejpservice.Core\\Interface\\ICustomersRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Title": "BaseAmountModel.cs",
+              "DocumentMoniker": "D:\\Proyectos\\API\\RESTFull\\ejpservice\\ejpservice.Core\\Core\\Models\\BaseAmountModel.cs",
+              "RelativeDocumentMoniker": "ejpservice.Core\\Core\\Models\\BaseAmountModel.cs",
+              "ToolTip": "D:\\Proyectos\\API\\RESTFull\\ejpservice\\ejpservice.Core\\Core\\Models\\BaseAmountModel.cs",
+              "RelativeToolTip": "ejpservice.Core\\Core\\Models\\BaseAmountModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAcAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-22T00:26:37.262Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "EJPServiceContext.cs",
-              "DocumentMoniker": "D:\\Proyectos\\API\\RESTFull\\ejpservice\\ejpservice.Infrastructure\\Context\\EJPServiceContext.cs",
-              "RelativeDocumentMoniker": "ejpservice.Infrastructure\\Context\\EJPServiceContext.cs",
-              "ToolTip": "D:\\Proyectos\\API\\RESTFull\\ejpservice\\ejpservice.Infrastructure\\Context\\EJPServiceContext.cs",
-              "RelativeToolTip": "ejpservice.Infrastructure\\Context\\EJPServiceContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABkAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-21T23:39:22.633Z",
+              "WhenOpened": "2024-07-26T11:27:25.672Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "BaseFollow.cs",
-              "DocumentMoniker": "D:\\Proyectos\\API\\RESTFull\\ejpservice\\ejpservice.Core\\Core\\BaseFollow.cs",
-              "RelativeDocumentMoniker": "ejpservice.Core\\Core\\BaseFollow.cs",
-              "ToolTip": "D:\\Proyectos\\API\\RESTFull\\ejpservice\\ejpservice.Core\\Core\\BaseFollow.cs",
-              "RelativeToolTip": "ejpservice.Core\\Core\\BaseFollow.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "DocumentIndex": 1,
+              "Title": "SalesRepository.cs",
+              "DocumentMoniker": "D:\\Proyectos\\API\\RESTFull\\ejpservice\\ejpservice.Infrastructure\\Repositories\\SalesRepository.cs",
+              "RelativeDocumentMoniker": "ejpservice.Infrastructure\\Repositories\\SalesRepository.cs",
+              "ToolTip": "D:\\Proyectos\\API\\RESTFull\\ejpservice\\ejpservice.Infrastructure\\Repositories\\SalesRepository.cs",
+              "RelativeToolTip": "ejpservice.Infrastructure\\Repositories\\SalesRepository.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAQwFsAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-22T01:50:57.581Z",
+              "WhenOpened": "2024-07-26T11:10:54.656Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SalesDependency.cs",
+              "DocumentMoniker": "D:\\Proyectos\\API\\RESTFull\\ejpservice\\ejpservice.IOC\\Dependencies\\SalesDependency.cs",
+              "RelativeDocumentMoniker": "ejpservice.IOC\\Dependencies\\SalesDependency.cs",
+              "ToolTip": "D:\\Proyectos\\API\\RESTFull\\ejpservice\\ejpservice.IOC\\Dependencies\\SalesDependency.cs",
+              "RelativeToolTip": "ejpservice.IOC\\Dependencies\\SalesDependency.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T11:08:38.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BaseDTModel.cs",
+              "DocumentMoniker": "D:\\Proyectos\\API\\RESTFull\\ejpservice\\ejpservice.Core\\Core\\Models\\BaseDTModel.cs",
+              "RelativeDocumentMoniker": "ejpservice.Core\\Core\\Models\\BaseDTModel.cs",
+              "ToolTip": "D:\\Proyectos\\API\\RESTFull\\ejpservice\\ejpservice.Core\\Core\\Models\\BaseDTModel.cs",
+              "RelativeToolTip": "ejpservice.Core\\Core\\Models\\BaseDTModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T11:07:56.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SalesModel.cs",
+              "DocumentMoniker": "D:\\Proyectos\\API\\RESTFull\\ejpservice\\ejpservice.Core\\Models\\SalesModel.cs",
+              "RelativeDocumentMoniker": "ejpservice.Core\\Models\\SalesModel.cs",
+              "ToolTip": "D:\\Proyectos\\API\\RESTFull\\ejpservice\\ejpservice.Core\\Models\\SalesModel.cs",
+              "RelativeToolTip": "ejpservice.Core\\Models\\SalesModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAQAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T11:06:11.953Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Sales.cs",
+              "DocumentMoniker": "D:\\Proyectos\\API\\RESTFull\\ejpservice\\ejpservice.Core\\Entities\\Sales.cs",
+              "RelativeDocumentMoniker": "ejpservice.Core\\Entities\\Sales.cs",
+              "ToolTip": "D:\\Proyectos\\API\\RESTFull\\ejpservice\\ejpservice.Core\\Entities\\Sales.cs",
+              "RelativeToolTip": "ejpservice.Core\\Entities\\Sales.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAUAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T11:02:58.772Z"
             }
           ]
         }

@@ -13,6 +13,6 @@
         public int? UserMod {  get; set; }
         public int? UserDelete { get; set; }
         public DateTime? DeletedDate { get; set; }
-        public bool Deleted { get; set; }
+        public bool? Deleted { get; set; }
     }
 }

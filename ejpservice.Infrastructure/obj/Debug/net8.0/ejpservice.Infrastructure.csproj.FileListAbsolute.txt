@@ -15,3 +15,4 @@ D:\Proyectos\API\RESTFull\ejpservice\ejpservice.Infrastructure\bin\Debug\net8.0\
 D:\Proyectos\API\RESTFull\ejpservice\ejpservice.Infrastructure\bin\Debug\net8.0\ejpservice.Domain.dll
 D:\Proyectos\API\RESTFull\ejpservice\ejpservice.Infrastructure\bin\Debug\net8.0\ejpservice.Domain.pdb
 D:\Proyectos\API\RESTFull\ejpservice\ejpservice.Infrastructure\obj\Debug\net8.0\ejpservice.Infrastructure.genruntimeconfig.cache
+D:\Proyectos\API\RESTFull\ejpservice\ejpservice.Infrastructure\obj\Debug\net8.0\ejpservice.Infrastructure.sourcelink.json
